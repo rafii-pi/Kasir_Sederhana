@@ -22,7 +22,6 @@ Dengan ketentuan harga barang yaitu :
 | Celana      | Rp.250.000,- |
 | Jilbab      | Rp.75.000,-  |
 |----------------------------|
-  🦫 it's only college assignment :)
 ```
 Kemudian kita diminta untuk mencatat semua barang yang dibeli dari masing masing barang. jika tidak membeli barang tersebut(ex.tidak membeli jilbab), maka user hanya perlu menuliskan jumlah **0**(nol) pada kuantitas barang.
 ```bash
